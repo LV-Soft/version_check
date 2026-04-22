@@ -1,1 +1,1 @@
-{"version":"1.5.0", "notes":"Fix: Improved visuals when robbing a player in the UI, UI performance improvements,Internal performance improvements"}
+{"version":"1.6.1", "notes":"Fix: Sometimes items in the backpack would be lost when dropping it."}
