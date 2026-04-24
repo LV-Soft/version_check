@@ -1,1 +1,1 @@
-{"version":"1.6.1", "notes":"Fix: Sometimes items in the backpack would be lost when dropping it."}
+{"version":"1.6.2", "notes":"Fixed an issue with shops registered through ox_inventory"}
