@@ -1,1 +1,1 @@
-{"version":"1.6.2", "notes":"Fixed an issue with shops registered through ox_inventory"}
+{"version":"1.6.3", "notes":"* Fixed an issue with shops registered through ox_inventory, * Minor internal change to support another interaction system"}
